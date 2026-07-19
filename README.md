@@ -7,7 +7,7 @@ Once everything is visible, the script extracts:
 - Price (including free titles)
 - Product page URL
 
-The output is saved to an Excel file so it can be used for collection tracking, price analysis, or anything else that’s easier to do in a spreadsheet.
+The output is saved to an Excel file so it can be used for collection tracking, price analysis, or anything else that’s easier to do in a spreadsheet. i have included my scrape as an excell file it took 67 min to scrape and compile
 
 ## Requirements
 - Python 3
