@@ -1,4 +1,4 @@
-# Nintendo Switch Games Scraper
+# Nintendo Switch Games Scraper and game list excell
 
 This project scrapes the full Nintendo Switch game catalog from the official Nintendo Store. The site uses lazy loading and only renders a small portion of the list at a time, so the scraper scrolls through the entire page until all game cards are loaded.
 
